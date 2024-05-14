@@ -1,0 +1,24 @@
+.input{
+    accent-color: red;
+}
+
+.Box1{
+
+    background-color: rgb(255, 0, 157);
+    border: 3px solid black;
+    width: 100px;
+    height: 100px;
+    border-top: 4px solid red;
+}
+
+
+.Box1:hover{
+    background-color: red;
+    color: white;
+}
+
+
+html{
+    background: linear-gradient(50deg,rgb(0, 255, 255),rgb(255, 114, 114));
+    color: w;
+}
